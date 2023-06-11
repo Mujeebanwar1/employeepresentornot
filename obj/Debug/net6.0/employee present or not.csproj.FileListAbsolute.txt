@@ -1,0 +1,15 @@
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.csproj.AssemblyReference.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.AssemblyInfoInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.AssemblyInfo.cs
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.csproj.CoreCompileInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\bin\Debug\net6.0\employee present or not.exe
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\bin\Debug\net6.0\employee present or not.deps.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\bin\Debug\net6.0\employee present or not.runtimeconfig.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\bin\Debug\net6.0\employee present or not.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\bin\Debug\net6.0\employee present or not.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\refint\employee present or not.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\employee present or not.genruntimeconfig.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employee present or not\obj\Debug\net6.0\ref\employee present or not.dll
